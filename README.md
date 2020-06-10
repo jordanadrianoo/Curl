@@ -12,7 +12,7 @@ This Repository will keep track of simple tools found within Curl.
 |                commands                      |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
 | curl --help                                  |    Shows the curl help list                                |
-| curl <*Any URL*>                             |    This will return the HTML of the URL choosen.           |
+| curl <**Any URL**>                           |    This will return the HTML of the URL choosen.           |
 
 
 ## Sources 
