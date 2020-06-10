@@ -1,7 +1,7 @@
-# Curl
+# cURL
 
 This Repository will keep track of simple tools found within Curl.
 
-# Sources 
+## Sources 
 
 [cURL How to Guide](https://curl.haxx.se/docs/manpage.html)
