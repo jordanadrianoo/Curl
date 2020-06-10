@@ -14,6 +14,7 @@ CURL is a computer software project providing a library and command-line tool fo
 | curl --help                                  |    Shows the curl help list                                |
 | curl <**URL**>                               |    This will return the HTML of the URL choosen.           |
 | curl -i <**URL**>                            |    This will return the HTML with header content           |
+| curl -I <**URL**>                            |    This will return only the header content                |
 
 
 ## Sources 
