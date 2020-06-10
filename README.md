@@ -4,9 +4,8 @@ This Repository will keep track of simple tools found within Curl.
 
 ## Requirements
 
-- test
-- test
-- test
+- Git
+- Curl tool installed
 
 ## Sources 
 
