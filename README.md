@@ -1,4 +1,4 @@
-# cURL
+# CURL
 
 This Repository will keep track of simple tools found within Curl.
 
@@ -6,6 +6,13 @@ This Repository will keep track of simple tools found within Curl.
 
 - Git
 - Curl tool installed
+
+## CURL Commands
+
+|                commands                      |                   Explanation                              |
+|----------------------------------------------|------------------------------------------------------------|
+| curl --help                                  |    Shows the curl help list                                |
+
 
 ## Sources 
 
