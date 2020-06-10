@@ -1,11 +1,11 @@
 # CURL
 
-This Repository will keep track of simple tools found within Curl.
+CURL is a computer software project providing a library and command-line tool for transferring data using various network protocols.
 
 ## Requirements
 
 - Git
-- Curl tool installed
+- CURL tool installed
 
 ## CURL Commands
 
