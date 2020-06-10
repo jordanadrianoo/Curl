@@ -17,4 +17,4 @@ CURL is a computer software project providing a library and command-line tool fo
 
 ## Sources 
 
-[cURL How to Guide](https://curl.haxx.se/)
+[CURL How to Guide](https://curl.haxx.se/)
