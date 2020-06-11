@@ -44,7 +44,7 @@ This command steps are:
 | -O                                           |    To output the data with the files orginial name         |
 | -L                                           |    To find the location of the file                        |
 
-## Sources 
+## Sources  
 
 [CURL How to Guide](https://curl.haxx.se/)
 [CURL Doccumentation](https://www.mit.edu/afs.new/sipb/user/ssen/src/curl-7.11.1/docs/curl.html)
