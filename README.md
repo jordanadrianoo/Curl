@@ -19,7 +19,7 @@ CURL is a computer software project providing a library and command-line tool fo
 ## CURL Tools
 |                Tool Shortcut                 |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
-| curl --help                                  |    Shows the curl help list                                |
+| -i                                           |    To include the header and body of the URL               |
 
 ## Sources 
 
