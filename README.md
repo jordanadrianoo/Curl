@@ -19,6 +19,7 @@ This command steps are:
 - **-X** Request 
 - **-G** Go get
 - **URL** from the URL
+- **-O** output data with the orginal file name
 
 
 
