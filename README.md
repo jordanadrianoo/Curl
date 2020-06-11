@@ -15,8 +15,11 @@ curl -L -X -G http://example_website/home/examples/download-this -O -u frank:pas
 
 This command steps are:
 
--- **-L** find the location of a file
--- **-X** Request 
+- **-L** find the location of a file
+- **-X** Request 
+- **-G** Go get
+- **URL** from the URL
+
 
 
 ## CURL Commands
