@@ -7,6 +7,13 @@ CURL is a computer software project providing a library and command-line tool fo
 - Git
 - CURL tool installed
 
+## Example Command
+
+```
+
+```
+
+
 ## CURL Commands
 
 |                commands                      |                   Explanation                              |
