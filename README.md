@@ -20,7 +20,7 @@ This command steps are:
 - **-G** Go get
 - **URL** from the URL
 - **-O** output data with the orginal file name
-
+- **-u** use the credentials username:password
 
 
 ## CURL Commands
