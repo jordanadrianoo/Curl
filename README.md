@@ -26,6 +26,7 @@ CURL is a computer software project providing a library and command-line tool fo
 | -u <**usr:password**>                        |    To enter the username and password                      |
 | -o <**example.file**>                        |    To output the downloaded data into a new file           |
 | -O                                           |    To output the data with the files orginial name         |
+| -L                                           |    To find the location of the file                        |
 
 ## Sources 
 
