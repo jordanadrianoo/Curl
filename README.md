@@ -22,6 +22,7 @@ CURL is a computer software project providing a library and command-line tool fo
 | -i                                           |    To include the header and body of the URL               |
 | -I                                           |    To only include the Header and the Body                 |
 | -G                                           |    To go get data from the URL provided                    |
+| -X                                           |    To make a request from the URL                          |
 
 
 ## Sources 
