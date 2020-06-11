@@ -24,7 +24,6 @@ CURL is a computer software project providing a library and command-line tool fo
 | -G                                           |    To go get data from the URL provided                    |
 | -X                                           |    To make a request from the URL                          |
 
-
 ## Sources 
 
 [CURL How to Guide](https://curl.haxx.se/)
