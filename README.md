@@ -10,7 +10,7 @@ CURL is a computer software project providing a library and command-line tool fo
 ## Example Command
 
 ```
-
+curl -L -X -G http://example_website/home/examples/download-this -O -u frank:password1
 ```
 
 
