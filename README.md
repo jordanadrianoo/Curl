@@ -22,7 +22,6 @@ This command steps are:
 - **-O** output data with the orginal file name
 - **-u** use the credentials username:password
 
-
 ## CURL Commands
 
 |                commands                      |                   Explanation                              |
