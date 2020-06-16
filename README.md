@@ -12,7 +12,7 @@ CURL is a computer software project providing a library and command-line tool fo
 ```
 curl -L -X -G http://example_website/home/examples/download-this -O -u frank:password1
 ```
-
+ 
 This command steps are:
 
 - **-L** find the location of a file
